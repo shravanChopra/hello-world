@@ -12,4 +12,5 @@ Due to my Computer Science background, I've also worked on academic projects inv
 See you guys out there! For future perusers of my projects, I hope I have something fun to show you :)
 
 Cheers!
+
 -S
